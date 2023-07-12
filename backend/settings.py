@@ -159,7 +159,8 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost',
     'http://127.0.0.1',
     'http://0.0.0.0',
-    'http://localhost:5173'
+    'http://localhost:5173',
+    'https://64ac256f10e2810079f912fd--jolly-custard-fcd596.netlify.app'
 
 
 ]
