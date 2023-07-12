@@ -1,3 +1,5 @@
 venv/
 db.sqlite3
 _pycache_
+node_modules/
+db.sqlite3pip
